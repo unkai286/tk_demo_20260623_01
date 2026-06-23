@@ -30,23 +30,32 @@ def show_messages(messages: list[Any]) -> None:
                             unsafe_allow_html=True,
                         )
             else:
+                # 中間解説かどうかを判定
+                is_intermediate = message.response_metadata.get("is_intermediate_analysis", False) if hasattr(message, "response_metadata") else False
+                
                 with st.chat_message(message.type):
-                    st.write(message.content)
+                    if is_intermediate:
+                        # 検索結果の下のAI解説欄
+                        st.markdown("### 🔍 検索結果の解説")
+                        st.write(message.content)
+                    else:
+                        # 最終的な解説結果
+                        st.write(message.content)
 
-                    with open(c.output_md, "w", encoding="utf-8") as f:
-                        f.write(message.content)
-                    save_as_docx(c.output_md, c.output_filename)
+                        with open(c.output_md, "w", encoding="utf-8") as f:
+                            f.write(message.content)
+                        save_as_docx(c.output_md, c.output_filename)
 
-                    st.download_button(
-                        label="ファイルダウンロード",
-                        data=open(c.output_filename, "rb"),
-                        file_name=c.output_filename,
-                        key=uuid4().hex,
-                    )
+                        st.download_button(
+                            label="ファイルダウンロード",
+                            data=open(c.output_filename, "rb"),
+                            file_name=c.output_filename,
+                            key=uuid4().hex,
+                        )
 
         elif isinstance(message, ToolMessage):
             with st.chat_message(message.type):
-                with st.expander("作成されたプロンプト"):
+                with st.expander("📊 検索結果（詳細）"):
                     # st.write("ツールの実行結果")
                     st.info(message.content)
 
