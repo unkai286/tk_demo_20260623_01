@@ -1,0 +1,21 @@
+# google-geminiのapiキーを取得する。
+- Gemini API を使用するには、API キーが必要です。Google AI Studio で数回クリックするだけで、キーを無料で作成できます。
+https://ai.google.dev/gemini-api/docs/api-key?hl=ja
+https://aistudio.google.com/app/apikey?hl=ja
+
+# .envの修正
+GOOGLE_API_KEY=(取得したAPIキー)
+
+# コンテナ起動
+docker-compose up -d --build
+docker-compose up -d
+
+# 個別実行
+docker exec -it streamlit /bin/bash -c "streamlit run /workspace/src/3lw_gemini/app.py"
+- 初回はCSVをベクトル化するので、数分かかります。
+
+# コンテナに入って確認
+docker exec -it streamlit /bin/bash
+
+# コンテナ停止・廃棄
+docker-compose down && docker system df && docker volume prune -f && docker builder prune -f && docker network prune -f

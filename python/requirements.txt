@@ -1,0 +1,13 @@
+duckdb
+grandalf
+lancedb
+langchain-community
+langchain-openai
+langgraph
+pymupdf
+python-dotenv
+Spire.Doc
+streamlit
+tabulate
+google.generativeai
+langchain-google-genai

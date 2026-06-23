@@ -1,0 +1,361 @@
+abbreviations,officialnames,descriptions
+AoT,Academy of Technology,現IBM Open Innovation Community。IBMのGEOを超えた（＝グローバルな）技術コミュニティ。TEC-Jの親コミュニティ。
+AI&A,AI & Analytics,AIを活用した分析で、お客様の経営課題解決や新たな経営戦略実現を担う部署。SCM最適化、価格最適化、R&Dプロセス最適化など多くの分析プロジェクトを実施。DX組織立上げ支援、デジタル人材育成サービスなども。
+BTS,Business Transformation Services,"IBM Consultingの２つのGrowth Platforms（組織）のうちの片方。あるいは、IBM Consulting社員全員が2つのうちのどちらかをもつPractice（専門領域）の片方。もう片方はHCS。お客様の課題を「戦略・業務コンサルティング、テクノロジー導入、プロセスアウトソーシング」でEnd to Endで解決すべく、ドメイン別サービスライン（FSCT, CT, TT, DTT, Delivery）とBPO ServicesとITUで構成。"
+CIC,Client Innovation Center,世界各地に存在するIBMのクライアントを対象としたワークショップや商談を行う拠点。
+CTL,Client Technical Leader,クライアントテクニカルリーダー（CTL）は、クライアントに戦略的技術的リーダーシップを提供する部隊。主にCTOなどに該当する役割。
+CAS AMB,"Cloud Application Services Advise, Move, and Build",過去の組織名。現HCT。HCTの項目を参照。
+CAS Manage,Cloud Application Services Manage,過去の組織名。現HCM。HCMの項目を参照。
+DSN,Data Science Network,日本IBMにてData Scienceに関する研究結果や話題のトピックに関するディスカッションなどを行うコミュニティ。
+CBDS,Cognitive Business Decision Support,過去の部署名。CPT内にあった、現BTS内のDTT。DTTの項目を参照。
+CPR,Cognitive Process Re-Engineering,"過去の部署名。CPT内にあった。現在BTS内のFSCT。お客様のデジタルトランスフォーメーションを推進するため、お客様のCFO, COO, CSCO, CIOが考える課題を解決していた。"
+CPS,Cognitive Process Service,過去の部署名。CPT内にあった、現在はBTS内の機能。ビジネスプロセスアウトソーシング（BPO）を主体とした業務のデジタル変革を推進していた。
+CPT,Cognitive Process Transformation,過去の部署名。業務はBTSに引き継がれている。ワトソンやAI・IoT等のIBMの新しい強いテクノロジーを活用して大きな業務変革を実現する部門だった。
+CH&S,Corporate Health & Safety,社員の安全衛生・健康管理を行う部署。心身のことで相談したい場合もこちら。
+COSMOS,COSMOS Networking,日本IBM女性技術者に関するコミュニケーションや情報共有、情報発信のツールとして活用するためのコミュニティ。
+CMT,Crisis Management Team,緊急事態、災害、または大災害が発生した場合に、復旧を行う組織。国や拠点レベルで存在している。
+CIS,Cross Industry Service,クロスインダストリー事業部（IJDS）。流通、公共/公益、製造等の業種のお客様を担当し、システムの開発から運用保守まで行う。
+CSM,Customer Service Manager,カスタマーサクセス部門のメンバー。「IBM製品を通じてお客様の事業成功に貢献し、結果的にIBM製品をお客様に末長く効果的にご愛用いただくこと」をメインミッションとする。
+CSOL,IBM Global Services Japan Collaboration Solutions and Services Company,過去存在した日本アイ・ビー・エム100％出資子会社。日本アイ・ビー・エム共同ソリューション・サービス株式会社。2022年7月1日にIJDSと合併。
+CT,Customer Transformation,"BTSのサービスライン。お客様のデジタルトランスフォーメーションを推進するため、お客様のCMO, CSO, CDOが考える課題を解決する。"
+DTT,Data Technology Transformation,BTSのサービスライン。お客様のデジタルトランスフォーメーションを推進するため、お客様の課題をデータおよびAIの観点で解決する。
+DASH,DE / Fellow Act to create Sustained Higher value for clients,日本IBMの全Fellow（グローバルで最高峰の技術的エグゼクティブ）およびDE（Distinguished Engineer 、技術理事。Fellowに次ぐ技術的職位)で構成されるコミュニティ。
+DIST,Distribution,流通プロセスにおいて業務改革を行う部署。事業部レベルでIND&DIST（製造・流通セクター）として登場することも多い。
+IDC,Innovation delivery Center,イノベーション開発センター事業部。業界をまたがって培ったアプリケーション開発技術とデジタルテクノロジーを活用し、既存システムの高度化とデジタル変革を目指す。
+ES,Enterprise Strategy,ITU内のPracticeの1つ。要するに「戦略コンサルティング」。飛躍的な業績向上に向け、トップレベルの課題解決を行える施策を提案し、戦略を立てて実行へ移す。
+FSCT,Finance & Supply Chain Transformation,"BTSのサービスライン。お客様のデジタルトランスフォーメーションを推進するため、お客様のCFO, COO, CSCO, CIOが考える課題を解決する。"
+GAC,Global Associates Community,グローバルなIBM Cosultingアソシエイトコミュニティに関与することを使命とする、IBM Consultingアソシエイトのグループ。
+GBS,Global Business Services,現IBM Consulting。BTSとHCSからなる組織。
+-,Global Sales,過去の営業部隊名。現Industry Technology Sales。デジタルにフォーカスされた製品の販売を行う。
+GTC,Global Technical Council,技術評議会。BTSの最高の技術的才能を世界中から集めて、現在の技術トピックに関する知識と専門知識を共有することを目指すコミュニティ。
+HCM,Hybrid Cloud Management,"HCSのサービスライン。お客様のデジタルトランスフォーメーションを推進するため、お客様のCIO, CTOの考える課題を解決する。"
+HCS,Hybrid Cloud Services,"IBM Consultingの２つのGrowth Platforms（組織）のうちの片方。あるいは、IBM Consulting社員全員が2つのうちのどちらかをもつPractice（専門領域）の片方。もう片方はBTS。「デジタル・テクノロジー基盤」を扱い、オープン・ハイブリッド・クラウド環境におけるEnd to Endのサービスを提供する。サービスライン（HCT, HCM）で構成。"
+HCT,Hybrid Cloud Transformation,HCSのサービスライン。お客様のデジタルトランスフォーメーションを推進するため、お客様の課題解決をHybrid Multi Cloud環境をフルライフサイクルにてサポートする。
+-,IBM Consulting,IBMの中核組織。コンサルタント、データサイエンティスト、ITスペシャリスト、その他さまざまな職種が協業し、お客様の課題解決を行う。
+-,IBM Financing Japan,"Pricing, Credit, Salesなど、金融業界向けのソリューションを提供している部署。"
+IGSCH,IBM Global Services Japan Chugoku Solutions Company,過去存在した日本アイ・ビー・エム100％出資子会社。日本アイ・ビー・エム中国ソリューション株式会社。2022年7月1日にIJDSと合併。
+IGF,IBM Golbal Financing,"過去の事業部。現IBM Financing Japan。IBMのHW, SWおよびサービスに対するリース・ファイナンシングを全世界規模でお客様に提供。"
+IJDS,IBM Japan Digital Services Company,日本アイ・ビー・エム100％出資子会社のシステムインテグレーター。2020年7月1日、ISC-J・ISOL・IBITが合併し誕生、2022年にはCSOLやIGSCHとも合併。
+TSOL,IBM Japan Technical Solutions Company,過去存在した日本アイ・ビー・エム100％出資子会社。日本アイ・ビー・エム テクニカル・ソリューション株式会社。2023年3月1日に日本アイ・ビー・エムと合併。
+ITLMC,IBM Technical Leadership Master Course,IBMのテクニカルコミュニティー。部署やプロフェッションという枠を超えて構成された活動メンバーが、様々なテーマでワーキンググループ（WG）の活動を行う活動組織。
+IND,Industry,製造プロセスにおいて業務改革を行う部署。インドと読む。事業部レベルでIND&DIST（製造・流通セクター）として登場することも多い。
+-,Industry Technology Sales,製造業界に向けた製品販売にフォーカスしている営業組織。
+ITU,Industry Transformation Unit,BTSのイノベーションユニット。お客様のデジタルトランスフォーメーションを推進するため、Industry Enterprise戦略を推進する。
+ISV,Independent Software Vendor,独立系ソフトウェアベンダー。
+ISV Services,ISV Services,ISV事業部。国内外の他社製ソフトウェアを用いたソリューションで、お客様のデジタル変革を加速させることを目的とする。
+iX,Interactive Experience,デザイン主導で、戦略・デザイン・テクノロジーそれぞれのエキスパートが協力し、共同クリエーターであるIBM Garage?のサポートも含め、企業のデジタル変革を支援する。
+IBM,International Business Machines Corporation,IBMの正式名称。
+CTL,Client Technical Leadership,技術の専門家であり、お客様、IBM 販売チーム、および IBM ビジネス・パートナーを対象としたアドバイザー。
+JTC,Japan Technical Council,テクノロジーを武器にしたい若手IBMerが、部門を超えて知識とスキルを習得し、交流し、社内外で若手として発信するコミュニティ。2001年発足。
+JWC,Japan Women's Council,女性がキャリアを継続していく上で直面するさまざまな課題を検討していくための諮問委員会。1998年発足。昨今は社内のD&I（Diversity & Inclusion）の拡大に力を入れている。
+L&K,Learning & Knowledge,研修から資格取得まで、IBMerの学びを担当する組織。通称エルケー。
+MIDS,MI Digital Service,日本IBMとみずほFG出資のシステム運用会社。金融において、＜みずほ＞の大規模システムの安定運用ノウハウと、日本アイ・ビー・エムが持つ最新テクノロジーを融合させ、安定的かつ効率化・高度化された運用サービスの提供を目指す。
+OIO,Open Infrastracture Offering,比較的大規模なお客様への、マルチブランド長期包括契約のオファリングを提供する事業部。
+P-TECH,Pathways in Technology Early. College High School,教育行政・学校・企業がパートナーシップを結び、協働してIT人材育成に取り組む、高等学校と二年制カレッジ(短大/専門学校など)を統合した5年の公教育学校モデル。
+PM&T,Process Methods & Tools,グローバルなビジネスを強化するため、IBMの標準・基準となるメソッドおよびツールを提供する。
+PFG,Promontory Financial Group,2022年7月をもって日本から撤退した、IBMの完全子会社。金融サービス業界やグローバルにビジネスを展開する企業に対し、経営戦略の遂行、リスク管理の高度化、そしてコンプライアンスの強化をアドバイスするコンサルティング会社。
+R&D,Research&Development,IBMにおける研究開発を行う組織。
+TT,Talent Transformation,BTSのサービスライン。お客様のデジタルトランスフォーメーションを推進するため、CHROをはじめ人事関係者が考える課題を解決する。
+TEC-J,Technical Experts Community of Japan,部門・専門横断でテクニカル・リーダーシップを発揮し日本IBMに貢献するためのコミュニティ。1999年2月に設立され、2001年にIBMのGEOを超えた技術コミュニティ Academy of Technology（AoT）の支部として認定された。
+-,Technology,現Technology Sales。Technology Salesの項目を参照。
+-,Technology Sales,IBM製品やソリューションの販売を行う組織。
+TLS,Technology Lifecycle Services,お客様のハイブリッドクラウドやデータセンターの計画立案、導入、運用、最適化、更改の支援などを担う組織。
+TSS,Technology Support Service,現TLS。TLSの項目を参照。
+C&N,the Contracts & Negotiations,販売チームの一員として主に法的観点からお客様との契約・交渉を推進するためのグローバルの専門家チーム。日本では、関連情報が法務ポータルで提供される。
+WG,Working Group,組織名に使われる。ビジネスユニットやプロフェッションという枠を超えて構成された活動メンバーが、様々なテーマのもとに集まる。
+AM,Associate Manager,"現サブマネ（サブマネージャー）。アソマネと略された。Associates Line（Associatesの所属先）において、副所属長のような役目を果たす。"
+CR,Customer Representative,顧客担当者。顧客との継続的な関係を保ち、様々な顧客情報を得る役目を担う。
+-,HCL notes,名刺の申請、備品の申請などを行う旧社内ツール。Hindustan Computers Limited（HCL）という会社のグループウェア用ミドルウェア。
+DS,Data Scientist,データ分析に基づくインサイトを顧客に提供する職種。
+DE,Distinguished Engineer,"技術理事。IBM Fellowに続く最高峰の技術系職位で、担当技術分野において現場で活躍する第一人者。正式な全社レビュー・プロセスを通じ、他の技術系社員に対する模範的なリーダーシップに加え、世界的に重大な影響を及ぼす特に優れた技術的功績を評価され選出される。2023年4月現在、日本IBMには19名のDEが在籍。"
+GI,General Instructor,新卒社員のインストラクター的存在。年次やバンドは関係なく、様々な先輩社員がGIとして新卒社員をサポートするために担当する。
+GM,General Manager,現場での活動にとどまらず、全社的な経営の戦略などを取るマネージャー職。
+ITS,IT Specialist,他社で言うエンジニアに当たる職種。開発だけにとどまらず、プロジェクトマネジメントなども行う点でIBM独自の職種ともいえる。
+PE,Project Executive,プロジェクトのリーダーとして、プロジェクトの最終目標の決定や計画、資金調達などを行う。
+PJL,Project Leader,プロジェクトにおいて、メンバーを束ね、PMとの仲介に入る役職。
+PMO,Project Management Office,PMの補佐的な役割を担い個別プロジェクトの進捗を管理する役割。
+PM,Project Manager,プロジェクトマネージャー。プロジェクトの計画・遂行に責任を負う管理者。またそのような職位や職能。
+PO,Project Owner,プロジェクトオーナー・最終責任者。プロジェクトの発注者。プロジェクト組織に組み込まれ、プロジェクト推進の一翼を担う。
+SS,Solution/Sales Specialist,営業・営業企画職。デジタルツールを活用して、新たなお客様とのリレーション構築、案件発掘を行う職種。
+TS,Technical Specialist,Db2、他社プロダクト、Data＆AI領域の技術的専門家。
+WRR,Weekly Report Reviewer,WAP研修期間中に作成するWeekly Reportのレビューを担当する先輩社員。
+CSC,HZ Solution Center予約,箱崎ソリューション・センターの会議室予約に用いていた、旧システム。
+-,AskHR,人事関連サポートシステム。人事のプログラムや制度のガイドを確認したい、個別に問い合わせをしたい場合に。
+-,Associates Portal,Associates向けのポータルサイト。リンクはFY23、4月入社向け。毎年変わるので、注意！
+-,Buy@IBM,日本IBMの購買システム（名刺注文など）。2023年、RFQ Web、REQCAT、GLORYから1つに統合したそう。
+BID申請,Business Improvement District 申請,IBMの資金調達制度。
+-,Buy@IBM,社内購買システム。新入社員の用途はほぼ名刺の購入のみ。
+CAS,-,セキュリティカード（入館証）。
+-,Checkpoint,IBMで用いられる人事評価システム。
+-,CV Builder,社内向けのレジュメ作成システム。案件を探す際や要員計画時のインプットとなる。
+-,GrandPa,社内slackで運用されていた知恵袋Webアプリ。
+-,QATT,コロナ禍での集合研修に使われていたと思われる、QRコード出席ツール。
+H&SMS,Health & Safety Management System,従業員の健康と安全の促進と水準の向上に資することを目的とする安全衛生管理の仕組み。
+TWPS,TRIRIGA WPS,各社の会議室予約ツール。2023年時点で、Outlook内のRoomSearchから直接予約することも可能になっている。
+5 in 5,5 in 5,IBM基礎研究所が発表する、テクノロジーが5年以内に私たちの暮らしを変える5つの方法。今後5年間に起こる5つのイノベーション。
+-,IBM Employee Concerns,社員間で解決できない会社に関連する懸念について、窓口を通してマネージメントの注意を喚起することができる。
+-,IT Transformation Portal,PCやOutlook、Print@IBM、PCにインストール可能なソフトウェアなどのツールについての情報（日本語検索対応）が記載されている。
+LRT,Learning Request Tool,（有料・無料を含む）外部研修の受講および検定の受験の承認を提出するサイト。
+-,Lighthouse,プロジェクトナレッジ、研修資料などを共有できるプラットフォーム。
+MySA,My Staffing Adviser,各自がプロジェクトや休暇の予定を登録し、プロジェクトベースの人員配置を促進するコグニティブアプリケーション。
+PM&T (PMT),Process Methods & Tools (PMT Portal),プロセス、メソッド、ツールに関する最新ニュースが配信されている社内ポータルサイト。
+PMP,Professional Marketplace,過去の稼働予測管理ツール。現MySA。2023年でもMySAのことを指して使われることがある。
+-,Time@IBM,稼働管理ツール。社内および社外のサービス・プロジェクトで作業した時間を送信するためのアプリケーション。稼働管理にはFLCとILCがある。
+-,Travel@IBM,Concurに繋がる経費精算ツール。
+-,w3,"検索窓からフリーワードで幅広く検索できる社内専用検索ツール。「だぶさん」と呼ばれることも多い。"
+-,Workday,勤怠管理システム。休暇の申請にも用いる。
+YC,Your Career at IBM,2020年に導入された社員のキャリア開発をマネージャー、社員の双方の視点で支援する学習プラットフォーム。
+YG,Your Guides,専門知識を共有したい IBM 社員と、知識を広げたい IBM 社員をつなぐための、ソーシャルで協力的なプラットフォーム。
+YL,Your Learning,2016年に導入されたIBMの学習プラットフォーム。e-learningの受講窓口になるほか、これまでの学習経歴も確認できる。
+ACEモデル,Appreciation/Coaching/Evaluationモデル,現checkpointにあたる旧社内ツール。リレーションシップを構築し、学習・成長・変化を助け、状況を明確にして決断の参考となる情報を提供すること。
+BCG,Business Conduct Guidelines,IBMに対する社会の信頼と期待に応えるために社員一人ひとりが遵守すべき行動基準。
+CRA,Client Relationship Agreement,IBMクライアント・リレーションシップ契約書。お客様の声を受け、これまでより簡素化した契約書となった。
+QPIT,Quality and Productivity Improvement Toolkit,IBM IPアセット（IBM社内資産）の一つ。アプリケーション開発工程におけるワーク・プロダクト・テンプレート/サンプル/記述ガイドや様々なツール。
+CTEBA,"Compliance with Transportation, Entertainment and Business Amenities",政府の職員、政府機関やGOE、国により民間企業の役職員に対し、一定の価値基準を超えるアメニティを提供する前に経る必要がある承認プロセス。
+DTP,DASH Technology Perspective,多岐にわたるITの技術エリアの最新動向、ビジョン、それを支えるテクノロジー、今後の課題について、DASHのメンバー（日本IBMの全FellowおよびDEという技術トップ）がまとめたもの。
+FLC,Full Labor Claiming,労働稼働率に関する遵守規範。実態に即した労働時間および活動内容を、Time@IBMで全て申告する必要があることを指す。
+GTAM,Guide and Toolkit for Application Modeling,IBM IPアセット（IBM社内資産）の一つ。テストの作業効率化と品質向上を図る。要件（ユースケース）からアプリケーションの分析・設計を行う作業の標準化、品質向上、工数削減をサポートするためのガイドと支援ツール。
+IWF,Intelligent Workflow,要はビジネスプロセスの自動化。AIやテクノロジーを活用し、変化に対して柔軟な業務対応を効率的・自動的に遂行することを可能とする、Cognitive Enterprise実現までのアプローチ。
+JTLS,Japan Technical Leadership Session,IBMを牽引する人材となるための研修プログラム。
+-,JTC Incubate Camp,若手技術系プロフェッショナルが抱える課題を組織横断的に議論し、その成果をエグゼクティブの方々に提言する場。
+QMS,Quality Management System,"IBM Consultingのプロジェクトや組織を対象とし、ISOやCMMI, ITILなどの各種業界標準、および、CRMプロセスやWWPMMなどのIBM標準に準拠し、手続き、テンプレート、チェックリスト、ガイドライン等のアセットを提供する。"
+C&A,Cognitive & Analytics,過去の部署名。CPT・CBDS内にあった。現BTS・DTT内のAI&A。AI&Aの項目を参照。
+WACs,Web Application Components,"IBM IPアセット（IBM社内資産）の一つ。330社以上のお客様で採用されている。Javaアプリケーション開発で必要となる基盤機能のコンポーネントと、生産性向上のための開発支援ツールを提供するアプリケーション開発フレームワーク。"
+WR,Weekly Report,"WAP期間中の週次報告書。読んでコメントをくださる1つ上の先輩をWRR（Weekly Report Reviewer）と呼ぶ。"
+5W3H,"When, Where, Who, When, Where, How, How Many, How Much",フレームワークとして用いられる「When・Where・Who・When・Where・How・How Many・How Much」の8つの項目を示す言葉。
+WAP,Wild-ducks Accelerated Program,新人研修プログラムのこと。IBMerの精神「Wild-duck」を持つ圧倒的な個人力開発＋チームワーク（duck”s”）でのさらなる価値創出を支える思考行動様式を獲得することを目的とする。
+WM,Work Management,仕事を段取り良く進めるスキル。仕事の計画・管理。WAPで頻出。
+CP4D,IBM Cloud Pak for Data,データ・ファブリック・アーキテクチャーで構築されたプラットフォームを使用して迅速に結果を予測することのできるクラウドプラットフォーム。 
+Db2,IBM Db 2,IBMのリレーショナル型データベース管理システム。
+CADS,IBM SPSS Collaboration and Deployment Services,予測分析の広範な展開と使用を可能にするソリューション。
+ISSS,Integrated/ Integration Systme Support Service,統合システム・サポート・サービス。
+MC,Maintenance Coordination,お客様選定のサービス会社の取次サービス。
+MM,Maintenance Management,IBM選定のサービス会社による保守サービス。
+MS,Maintenance Service,IBMによる修理サービス。
+MVMS,Multi Vendor Maintenance Service,他社製機械保守サービス。
+MPS,Multi-vendor Premium Software Care,クラウド、商用SW、コミュニティOSSの一元窓口を提供する。
+RCL,Remote Code Load,遠隔保守サポートによるコード更新のサービス。
+SPSS,Statistical Package for Social Science,IBMの統計解析ソフトウェア。
+BLS,Support Extension Services,IBMソフトウェア製品のサポート・ライフサイクル上、通常のサポート期間が終了（EOS：End Of Support）した IBM Software製品に対して、Special BID申請による有償で提供されるバックレベル・プログラム支援サービス。
+STSS,System Technology Support Service,システム技術支援サービス。
+WAS,WebSphere Application Server,IBMのソフトウェア製品のブランド名。eビジネスの構築・運用・統合を行うミドルウェア・ソフトウェア群の総称。
+AC,Actual Cost,実コスト。その時点までに開発したコストの実績値。
+ACE,Appreciation Coaching Evaluation,コーチングのツール。
+AIDMA,"Attention, Interest, Desire, Memory, Action",アイドマ（注意、関心、欲求、記憶、行動）。通称アイドマ。購買行動の各プロセスで自社の改善ポイントを明らかにするためのフレームワーク。
+B/S,Balance Sheet,"貸借対照表。企業がどのようにお金を集め、それを何に使い、いくら残っているかを表している。ある時点の財政状態を示すので、企業の財務健全性を見ることができる。"
+BATNA,Best Alternative to Negotiated Agreement,通称バトナ。交渉相手から提示されたオプション以外で、最も望ましい代替案。
+BTO,Build to Order,受注生産方式・組立生産・受注加工生産。仕掛品まで製造しておき、顧客からの注?後に最終?程を実施する「部品在庫型」の生産方式。
+BCG,Business Conduct Guidelines,ビジネス・コンダクト・ガイドライン。IBMでは、お客様をはじめ、IBMに対する社会の信頼と期待にお応えするため社員一人ひとりが遵守すべき行動基準を「ビジネス・コンダクト・ガイドライン」としてまとめている。
+BPR,Business Process Reengineering,"業務の根本的革新。根本的な問いかけ(なぜそれは必要なのか?)によって、プロセスを抜本的に変えることで劇的な効果を?む?法。BPRの視点から企業を構成する要素は4つ、「ビジネス・プロセス」「職務と組織構造」「マネジメントと評価システム」「価値観と信念」"
+CW,Case Work,ケースワーク。困難な課題、問題をもった対象者（クライアント）が主体的に生活できるように支援、援助していく個人や家族といった個別に対するソーシャルワーク。
+C/S,Cash flow statement,キャッシュフロー計算書。企業が持つ現金「キャッシュ」に特化した第3の財務会計。現金の収入、支出を用途別に表にしたもの。
+CDO,Chief Digital Officers,最高デジタル責任者。
+CEO,Chief Executive Officer,最高経営責任者。
+CFO,Chief Financial Officer,最高財務責任者。
+CHRO,Chief Human Resource Officer,最高人事責任者。
+CIO,Chief Information Officers,最高情報責任者。組織名として用いられる場合、ITサービスのライフサイクルをサポートし、IBM社員やビジネス・パートナーへの最善のITサービスの提供を通じて日本IBMのビジネスの成長や各種生産性の向上、社員の働き方改革に貢献するGIE (Global Integrated Enterprise) 部門を指す。
+CISO,Chief Information Security Officer,最高情報セキュリティ責任者。
+CLO,Chief Logistics Officer,最高ロジスティクス管理責任者。
+CMO,Chief Marketing Officer,最高マーケティング責任者。
+COO,Chief Operating Officer,最高執行責任者。
+CSO,Chief Sales Officer,最高営業責任者。
+CSCO,Chief Supply Chain Officer,最高サプライチェーン責任者。
+CTO,Chief Technology Officer,最高技術責任者。
+CVM,Client Value Management,顧客価値管理。PMにおけるメソッドのひとつ。顧客の「バリュージャーニー」におけるすべての側面を管理するためのアプローチ。
+5Cs,"Client, Customer, Criteria, Constraints, Context",顧客、顧客の期待、基準、制約、業界環境。レコメンデーションを作成する際に、決定者は顧客の誰か、顧客の期待は何か、どのような基準で実行するか、どのような制約があるか、直面している問題は何かを考慮するフレームワーク。
+CRA,Compelling Reason to Act,お客様がどうしても買わなければならない差し迫った理由。
+CV,Cost Variance,コスト差異。
+CV,Curriculum Vitae,"履歴書。CV WizardはIBM Global Services共通のレジュメ作成・登録ツール。こちらに入力されたプロジェクト経験・スキルなどの情報は、プロジェクトからのリクエストにより候補者を選抜する際に、アサインメントを決定する際の判断材料として使用される。"
+CRM,Customer Relationship Management,顧客関係管理/顧客管理。顧客の属性や接触履歴を記録・管理し、それぞれの顧客に応じたきめ細かい対応を行うことで長期的な良好な関係を築き、顧客満足度の向上や取引関係の継続に繋げる取り組み。
+3C,"Customer, Company, Competitor",顧客、自社、競合。市場の変化とそれに対する競合の動向、自社の現在地を踏まえて、自社の成功要因を理解するためのフレームワーク。
+DC,Destribution Center,在庫型センター。在庫を保管しオーダーに応じて出荷するタイプの物流センター。
+EV,Earned Value,出来高実績値。その時点までに進捗した作業による成果の金銭換算の実績値。
+EVM,Earned Value Management,出来高管理。プロジェクトを「何時間かかるか」という時間ではなく、「人件費や労力はいくらか」というコストで進捗管理する手法。
+eL,e-Learning,イーラーニング。おもにインターネットを利用した学習形態。
+EOS,End Of Support,保守廃止 。
+ECA,Engineering Change Announcement,設計変更通知と呼ばれる情報伝達の仕組み。
+ERP,Enterprise Resource Planning,"企業資源計画。企業内のすべての業務を一元的に管理するシステム。各業務の変?を個別に?うのではなく、企業全体でプロセ スを最適化するコンセプト。”One Fact, One Place, Realtime” これを実現するモデルをパッケージ化した統合システムを、ERPパッケージと呼ぶ。ERPは統合DBと業務テンプレートにより、システム統合と業務標準化を実現する。"
+EAC,Estimation at Completion,完了時コスト予測。プロジェクト完了時にかかる総コストの予測。
+ETC,Estimation to Completion,残作業コスト予測。その時点からプロジェクト完了までにかかるコストの予測。
+GDS,Global Distribution System,各航空会社の発券情報などを一元的に管理するシステム。
+GX,Green Transformation,環境破壊や異常気象による自然災害、プラスチック問題や公害といった様々な環境問題を先進技術の力で解決することで、カーボンニュートラルなどの持続可能な社会の実現を目指す取り組み。
+GP,Gross Profit,売上総利益。売上高から売上原価を差し引いて計算せれる利益。
+GP,Growth Platform,成長の基盤。
+HCM,Human Capital Management,人材管理/人的資源マネジメント。企業などの組織における従業員を経営上の戦略的資源の一つと捉え、人に関連する情報や活動などを統合的に管理する経営手法。また、そのための業務や組織、情報システム。
+ISV,Independent Software Vendor,どこかの系列ではない、独立したパッケージソフトウェアの開発・販売会社の総称。
+IPA,Information-technology Promotion Agency,独立行政法人情報処理推進機構。日本のIT国家戦略を技術面・人材面から支えるために設立された独立行政法人。情報セキュリティ、ソフトウェア高信頼化、IT人材育成等の施策を展開している。
+IPO,Input Process Output,インプット、プロセス、アウトプット。
+I/F連携,Interface連携,インターフェース（ユーザーとシステムの接点）同士を連携させること。
+IRR,Internal Rate of Return,"内部収益率。年平均で何％儲かるか計算する方法【計算式：内部収益率 = ”NPV = 0”が成り立つ時の利回り】"
+ISO,International Organization for Standardization,"国際標準化機構。ISO規格は、国際的な取引をスムーズにするために、何らかの製品やサービスに関して「世界中で同じ品質、同じレベルのものを提供できるようにしましょう」という国際的な基準。"
+IoT,Internet of Things,モノのインターネット。コンピュータなどの情報・通信機器だけでなく、世の中に存在する様々な物体（モノ）に通信機能を持たせ、インターネットに接続したり相互に通信することにより、自動認識や自動制御、遠隔計測などを行うこと。
+ILC,Intranet Labor Claiming,一部のビジネスユニットでは、社員および一部の契約社員が Internet Labor Claiming (ILC) を使用して、社内および社外のサービス・プロジェクトに対する作業時間と休暇や休日などの作業以外の時間を提出することを義務付けている。（現Time@IBM）
+JR/S,Job role/specialty,職位/専門。
+KPI,Key Performance Indicator,重要業績評価指標。目標を達成するうえで、その達成度合いを計測・監視するための定量的な指標。
+LT,Lead Time,"リードタイム・所要時間。着手から完了までに要する時間や期間のこと。製品が開発され、商品として消費者の手元に届くまでのそれぞれの段階で使われることが多い。例）出荷LT：受注から納品までに要する時間。発注LT：商品の発注から納品までに要する時間。"
+LOC,Line of Code,プログラムのソースコードの行（Step数）のこと。
+LOVEM,Line of Visibility Engineering Methodology,通称ラブエム。業務フロー作成の主な方法論のうちの一つ。担当組織単位での業務プロセスが明確になる。
+MD,Man Day,人日。1人日＝8時間。
+MM,Man Month,人月。1人月＝20人日（22人日）。
+MES,Manufacturing Execution System,製造実行システム。
+MES,Manufacturing Execution System,生産実行システム/製造実行システム。製造工程の可視化や管理、作業者への指示や支援などを行う情報システム。
+MECE,"Mutually Exclusive, Collectively Exhaustive",もれなく、ダブりなく。通称ミーシー。論理的切り分け作業を施す際、問題解決に落ち度がないよう、効率的に行う考え方。ビジネスシーンにおいては、過度なMECEを求めないよう注意が必要。
+NPV,Net Present Value,正味現在価値法。投資事業が生み出す将来のCFの現在価値の時間軸で割り引いて計算する方法。計算式：将来CFの現在価値合計 - 初期投資額。
+5Forces,"New Entry, Seller, Conflict, Replacement, Buyer",新規参入、売り手、競合、代替品、買い手。業界ステークホルダーのパワーバランスの変化が与える影響（特に収益性の変化）を把握し、業界での成功要因を理解するためのフレームワーク。
+NoSQL,Not Only SQL,"データベース管理システム（DBMS）の分類を表す用語で、現在最も普及しているリレーショナルデータベース（RDB/RDBMS）とは異なる方式の総称。RDBでデータの問い合わせや操作に用いるSQL言語を使わずに管理することからこのように呼ばれる。"
+OBS,Organization Breakdown Structure,組織分解構成図。プロジェクトのスケジュール管理に使われるツールのひとつで、プロジェクト組織を詳細に区分して階層的に表現したもの。
+PV,Planned Value,出来高計画値。最初に計画を立てたときの現在の出来高。
+PEST,"Political, Economic, Social, Technological",政治、経済、社会、技術。中長期的な外部環境の変化が業界に与える影響を明らかにし、それを受けた業界での成功要因を理解するためのフレームワーク。
+PBS,Product Breakdown Structure,製品分解構成図。プロジェクトのスケジュール管理に使われるツールのひとつで、開発・作成しようとするものを全体（最終製品）と部分（半製品/部品）の関係を階層的に示したもの。
+PDM,Product Data Management,製品データ管理。製品図面、部品の構成表、技術文書などの製品設計に関連する情報を共有し、一元管理すること。
+PLM,Product Lifecycle Management,製品ライフサイクル管理。1つの製品について、企画段階から開発・設計・生産準備・調達・生産・販売・保守・生産打ち切りに至るまでの全行程の情報を、包括的に一元管理するマーケティング手法。
+PPM,Product Portfolio Management,PPM分析。経営資源の出どころ、使いどころを考慮し、事業の位置づけを検討するためのフレームワーク。
+4P,"Product, Price, Promotion, Place",商品、価格、広告・販促、チャネル。マーケティングミックスの観点から、新たに製品・サービスを企画したり、既存のものを競合と比較したりするためのフレームワーク。
+PMS,Production Management System,生産管理システム。生産現場における納期、数量、場所、工数などの計画・管理活動を効率化するシステム。
+P/L,Profit＆Loss statement,損益計算書。会社のある一定期間の収益と費用の損益計算をまとめたもの。収益・費用・利益の3つの要素から成り立つ。
+PMBOK,Project Management Body of Knowledge,プロジェクトマネジメントの知識体系。通称ピンボック。プロジェクトマネジメントに関する知識を体系的にまとめた参考書のようなもの。プロジェクトマネジメントにおける世界基準として世界各国に浸透している。
+PMI,Project Management Institute,プロジェクトマネジメント協会。非営利のプロジェクトマネジメントの組織。ワールドワイドでプロジェクトマネジメントの標準策定・資格認定・交流などを行う。
+QCD,"Quality, Cost, Delivery",品質、費用、納期。生産管理において重要な3項目をまとめて指すもの。
+RSTC,"Relevance, Specificity, Testability, Coverage",関連性、具体性、検証可能性、網羅性。仮説の妥当性を検証するためのフレームワーク。
+RFQ,Request for Quotation,見積依頼書 / 見積要求書。
+ROE,Return on Equity,自己資本利益率。【計算式：当期純利益（P/L）÷自己資本（B/S）】
+RTW,Return to Work,職場復帰。復職。
+SV,Schedule Variance,スケジュール差異。
+SL,Service Line,サービスライン。
+SOA,Service Oriented Architecture,プログラム部品を組み合わせることで、素早いサービス提供に主眼を置くこと。
+SCQA,"Situation, Complication, Question, Answer",状況、複雑化要因、答えるべき問い、回答。元McKinseyのバーバラ・ミントが提唱したロジカルなストーリーの考え方。この形式をとることが、読者にとって理解しやすいとされる。
+SME,Small and Medium sized Enterprise,中小企業。
+SWS,Softwear Service,ソフトウェアサービス。
+SU,Softwear Update,ソフトウェアアップデート。
+SMART,"Specific, Measurable, Achievable, Realistic, Time-bound",目標達成の可能性を高めるために効果的な目標設定方法のこと。「Specific」「Measurable」「Achievable」「Realistic」「Time-bound」の5つの要素で構成される。
+7S,"Strategy, Structure, Systems, Staff, Skills, Style, Shared Value","戦略、組織構造、社内の仕組み、人材、能力、経営スタイル、価値観。変化する市場で戦うための自社の武器を、変化させる対象を明らかにするためのフレームワーク。"
+SWOT,"Strength, Weakness, Opportunity, Threat",強み、弱み、機会、脅威。外部環境の変化（機会・脅威）と自社の強み・弱みを踏まえて、適切な打ち手のアイデアを得るためのフレームワーク。
+SME,Subject Matter Expert,内容領域専門家。
+SRM,Supplier Relationship Management,"仕入先管理/サプライヤー関係管理。購買側の企業（「バイヤー」）が日々の活動やミッションの達成で必要となる商品やサービスのプロバイダーとの関係を開始し、発展させていくための多段階プロセス。主な段階：仕入先の選定、リスク評価、契約交渉、オンボーディング、パフォーマンスの管理とリスク監視・軽減。"
+SIPCO,"Supplier, Input, Process, Customer, Output",サプライヤー、インプット、顧客、アウトプット。業務フロー作成の主な方法論のうちの一つ。業務プロセスのダイアグラムを構成する5つの要素の頭文字を並べたもの。インプット、プロセス、アウプットが明確に定義される。
+SCM,Supply Chain Management,サプライチェーン管理。原材料調達から最終顧客に至るまでの商品供給に関わるすべての活動において、顧客満足の最大化とコス トの最小化を目的として、企業内及び企業間に渡るプロセスを全体最適の観点で管理する手法。
+SAP,System Analysis Program,SAP社が生産するERP製品。
+SoE,System of Engagement,"エンゲージ（関与）のためのシステム。情報システムを主目的によって区別する分類法の一つ。人間と他の人間、組織、物事などの間の結びつき、関与（engagement）を作り出し、あるいは強化するために構築される情報システム。(特徴：関係を作る道具 /?の?定形な情報を扱う /情報アクセスを容易にする)"
+SoI,System of Insight,"インサイト（洞察）のシステム。情報システムを主目的によって区別する分類法の一つ。蓄積された情報の加工や分析を通じて何らかの有用な洞察（insight）を得ることを主目的とするシステム。通常はSoRやSoEと組み合わせて用いられる。（特徴：洞察を得る道具 /?では分からない洞察を引き出す/情報を活?する)"
+SoR,System of Record,"記録のシステム。情報システムを主目的によって区別する分類法の一つ。情報の記録を主目的に構築される情報システム。（特徴：定型化の道具 /?の作業を定型化し効率化する /情報を蓄積する）"
+TSP,Technical Service Program,技術的なサポートを行うプログラム。IBMでは、Power製品やIBM Zなどのサービスに紐づいて存在している。
+TMS,Transport Management System,輸送管理システム。
+WMS,Warehouse Management System,倉庫管理システム。倉庫への貨物、資材、商品の入出庫管理や在庫管理などの機能を搭載したシステム。
+WIIFM,What’s in it for me?,"「それは私にとってどんな利点があるのか？」「私が得るものは何か？」。Career Conversationsで話す内容。"
+WS,Work Shop,ワークショップ。学びや創造、問題解決やトレーニングの手法。
+SAP,"独：Systemanalyse Programmentwicklung（英：System Analysis Program Development）",主にビジネス向けソフトウェアの開発を手掛ける大手ソフトウェア企業。
+FCF,Free Cash Flow,フリーキャッシュフロー。会社が事業活動で稼いだお金のうち、自由（フリー）に使える現金（キャッシュ）がどれだけあるかを示すもの。
+AMS,Application Management Services,顧客のアプリケーションの計画・開発から保守・管理・拡張までを一貫して支援し、開発生産性の向上やコスト削減などに結びつけるというサービス。
+API,Application Programing Interface,"ソフトウェアが外部とのデータのやりとりを行うための窓口のこと。多くの企業・サービスがAPIを公開することで他社のサービスや情報を自社のサービス提供に活用することができる。"
+APサーバ,Application Server,アプリケーションが実行される場所。動作できる環境構築、データベースへの接続機能、トランザクション、ビジネスロジックの4つの機能からなる。
+ARP,Address Resolution Protocol,アドレス解決プロトコル。IPアドレスからMACアドレスを求める際に使用する。一度分かったものはARPテーブルに保持され、ぞれぞれの通信機器、OSで保持される。
+AWS,Amazon Web Service,アマゾンウェブサービス。Amazonが提供しているクラウドコンピューティングサービス。Webサービスに限らない、インフラストラクチャーサービスを提供。
+BFF,Backends For Frontends,フロントエンドのためのバックエンドサーバ。APIをコールしたり、HTMLを生成したりする。リバースプロキシとバックエンドのAPIサーバの間に設置することが多い。
+CI/CD,"Continuous Integration / Continuous Delivery, Continuous Deployment","継続的インテグレーション / 継続的デリバリー、継続的デプロイ。アジャイル開発やDevOps開発におけるテスト・統合・リリースを高速化するため、ソフトウェアの変更を常にテストし、自動で本番環境にリリース可能な状態にしておくソフトウェア開発手法。"
+CIM,Computation independent model,IT化を前提とせず本質構造を整理したモデル。
+CMMI,Capability Maturity Model Integration,能力成熟度モデル統合。組織がプロセス改善を行う能力を5段階の指標で評価する。
+COBIT,Control Objectives for Information and Related Technology,ITガバナンスの成熟度を測るフレームワーク。IT投資の評価、リスクとコントロールの判断、システム監査の基準などに使われている。
+CPU,Central Processing Unit,"中央演算装置。ハードウェア部品の内で最も重要なパーツ。演算と制御を行う。制御装置・演算装置・レジスタ・キャッシュメモリ・インタフェースから構成される。高速なCPUほど、処理が早くなる。CPU=頭脳、メモリ=机の上、HDD=引き出しに例えられる。"
+CRUD,"Create, Read, Update, Delete","通称クラッド。データを扱うソフトウェアに求められる4つの主要機能：Create(作成), Read（読み取り）, Update(更新), Delete(削除)のこと。論理設計が完了した時点で、モデルの網羅性を確実とするために行われる分析。また、どのエンティティに対してとのプロセスがどのような操作を実行するのかをマトリクスに整理して検証する手法をCRUD分析という。"
+CSS,Cascadeing Style Sheet,ウェブページのスタイルを指定するための言語。HTMLやXHTMLなどで作成されるウェブページにスタイルを適用する場合、CSSが一般的に利用される。（cf. XHTML：Extensible HTML）
+CUI,Character User Interface,コンピュータにおいて、キーボード入力と文字表示のみを用いた、ソフトウェアの操作体系。対義語としてGUI(Graphical User Interface)がある。
+DB,Data Base,データベース。業務システムにおけるデータ管理手段として一般的に用いられるもの。構造の違いで種類はあるが表の形式でデータを整理し格納するリレーショナルデータベース(RDB)が広く用いられている。
+DBMS,Database Management System,データベース管理システム。常時稼働してデータの格納や検索の処理を行うプログラム。
+DC,Data Center,インターネット用のサーバーなど、装置を設置・運用することに特化した建物の総称。
+DevOps,"Development, Operations",開発と運用の協業という組織体制を指すこともあれば、自動化を助けるツール適用のことを指すこともある。IBMでは、それらの定義を包含して「4つのPathと6つのPractice」を定義している。
+DHCP,Dynamic Host Configuration Protocol,IPアドレスを端末に自動的に割り当てて使いまわす機能。ネットワーク設定も自動に行ってくれる。
+DML,Data Manipulation Language,"データ操作言語。SQLの4大命令の総称。SELECT（検索）・UPDATE（更新）・DELETE（削除）・INSERT（挿入）"
+DMZ,De-Militarized Zone,非武装地帯。外部Firewallと内部Firewallの間に位置し、「危険なエリア」と「安全なエリア」の中間である「緩衝地帯」として機能する。
+DNS,Domain Name System,URLのhttps://の後ろの赤字部分（FQDN：完全修飾ドメイン）をIPアドレスに置き換える変換サーバー
+DX,Digital Transformation,"デジタルトランスフォーメーション。企業が外部エコシステム（顧客、市場）の破壊的な変化に対応しつつ、内部エコシステム（組織、文化、従業員）の変革を牽引しながら、第３のプラットフォーム（クラウド、モビリティ、ビッグデータ／アナリティクス、ソーシャル技術）を利用して、新しい製品やサービス、新しいビジネス・モデルを通して、ネットとリアルの両面での顧客エクスペリエンスの変革を図ることで価値を創出し、競争上の優位性を確立すること。"
+ER図,Entity Relationship Diagram,イーアール図。実体(エンティティ)と関連（リレーションシップ）を表した図。データベースで扱う情報の形（データモデル）を表した図であり、データモデリングの成果物。IDEF1XやIE記法が主流。
+FK,Foreign Key,外部キー。RDBでテーブルのある列に別のテーブルの特定の列に含まれる項目しか入力できないようにする制約。また、その際に指定する列。
+FQDN,Fully Qualified Domain Name,絶対ドメイン名。ドメイン名とホスト名が完全に記載されたもの。ツリー(木)構造を持つDNS (Domain Name System)の階層構造において、 ある特定のノードに付けられたドメイン名を表記する際、 そのノードからDNSのルートまでのすべてのラベルを並べて書いたもの。
+FTP,File Transfer Protocol,ファイル転送プロトコル。インターネットなどのTCP/IPネットワークでファイル転送を行うことができるプロトコル（通信規約）の一つ。
+GCP,Google Cloud Platform,Googleが提供しているクラウドコンピューティングサービス。AWS、Azureに続き世界三位のシェアを占める。
+GDPR,General Data Protection Regulation,EU一般データ保護規則。個人データ保護やその取り扱いについて詳細に定められたEU域内の各国に適用される法令。
+GRMプロセス,Global Renewals Management Process,きちんと確認やアクションが確実にできているかどうか、確認するために必要なもの。
+GUI,Graphical User Interface,コンピューターのグラフィックス表示とマウスなどのポインティング-デバイスを用いたソフトウエアの操作体系。
+HA構成,High Availability構成,高可用性な構成。複数のサーバを用いてシステムを稼働させる構成。1台のサーバに障害が発生した場合に、他のサーバで処理を引き継ぐことが可能であり、利用者はシステムを継続して利用することが可能。
+HDD,Hard Disc Drive,ハードディスク。コンピュータなどの代表的なストレージ（補助記憶装置）の一つ。薄くて硬い円盤（ ディスク ）の表面に塗布した磁性体の磁化状態を変化させてデータを記録するもの。
+HR,Human Resources,人的資源/人事部。企業や組織において人的資源全般に関わる業務を行っている。日本では人事部を指すことが多い。
+HTML,Hyper Text Modeling(Markup) Language,Webページを表示するためのマークアップ言語。文章の論理構造を示すことや、リンクを貼る、画像を表示することが可能。
+HTTP,Hyper Text Transfer Protocol,WebサーバとWebクライアントの間でデータの送受信を行うために用いられるプロトコル(通信規約)。一対のリクエストとレスポンスで完結する。（ステートレスなプロトコル）
+HTTPS,HTTP Secure,Webのデータ転送に用いられるHTTPが、SSLやTLSで暗号化されている状態を表したもの。
+HW,Hardware,ハードウェア。システムの構成要素のうち、回路や装置、機器、設備、施設など、物理的な実体を伴うもの。
+HWS,Hardware Service,ハードウェアサービス。
+IaaS,Infrastructure as a Service,通称アイアース。仮想サーバーやストレージなど物理層に近いもののみ、ネットワーク経由で提供する。
+IHS,IBM HTTP Server,IBMのWebサーバ（HTTPサーバ）ソフトウェア製品のひとつ。WASのHTTPサーバ部分として同梱される。
+IP,Internet Protocol,"インターネットプロトロコル。複数の通信ネットワークを相互に接続し、データを中継・伝送して一つの大きなネットワークにすることができる通信規約（プロトコル）の一つ。IPによって接続された世界規模の巨大なコンピュータネットワークをインターネット（the Internet）という。"
+IPv4,Internet Protocol Version4,32ビットで同時に約42憶個のIPアドレスを扱えるインターネットプロトコル。
+IPv6,Internet Protocol Version6,同時に約3.40×10??個のIPアドレスを扱えるインターネットプロトコル。
+IPアドレス,Internet Protocol Address,IPアドレス。ネットワークに接続された個々のネットワークやホスト（機器）に設定された固有の識別番号。
+ISO20000,ISO/IEC 20000,国際標準化機構が発行した、ITサービスを提供する組織のITサービスマネジメントが適切であるかどうかを評価するための国際規格、およびガイドライン。
+ISO27001,ISO/IEC 27001,国際標準化機構が発行した、情報セキュリティマネジメントシステムの国際規格。
+ISO9001,ISO9001（Quality Management Systems－Requirements）,国際標準化機構が発行した、品質マネジメントシステムの国際規格。ISO9001は、組織のマネジメントに関する企画。
+ITIL,Information Technology Infrastructure Library,アイティルと呼ばれる。ITサービスマネジメントのベストプラクティスをまとめた一連のガイドブック。ISO20000よりも自由度が高く、企業は自社で導入したいプロセス・内容・粒度を選択することができ、部分的にITILを適用することが可能。
+IWF,Intelligent Workflow,インテリジェントワークフロー。AIやテクノロジーを活用し、変化に対して柔軟な業務対応を効率的・自動的に遂行することを可能とする、Cognitive Enterprise実現までのアプローチ。
+JS,JavaScript,Webサイトやシステムの開発に用いられるプログラミング言語。幅広い対応が可能だが、得意な分野はWebが中心。
+JSP,JavaServer Pages,Webページ内にJavaプログラムを埋め込み、サーバ上で実行して結果を反映したページを動的に生成することができる技術。
+k8s,kubernetes,クーベネティス。コンテナの運用実行と管理を行うオーケストレーションツール。
+LAN,Local Area Network,"ローカルエリアネットワーク。同じ建物内にある小さな物理的エリア内にあるネットワーク。対義に複数の建物を占める場合に用いるWAN(World Area Network)がある。"
+MAC,Media Access Control,媒体アクセス制御。通信プロトコル（通信規約）を階層化したモデルにおける層の一つ。
+MVS,Multiple Virtual Storage,多重仮想記憶。IBMが開発したメインフレーム向けOS製品であり、現代の仮想マシンに近い仕組み。
+NGO,Non-Governmental Organization,非政府組織。貧困・飢餓や紛争、環境破壊や災害など世界で起こっているさまざまな課題に、政府や国際機関とは異なる「民間」の立場から、利益を目的とせず取り組む市民団体。
+NPO,Non-Profit Organization/Not-for-Profit Organization,非営利組織。様々な社会貢献活動を行い、団体の構成員に対し、収益を分配することを目的としない団体の総称。
+NPS,Net Promoter Score,ネットプロモータースコア。顧客への顧客の企業やブランドに対する愛着や信頼度を数値化する指標。
+OCP,OpenShift Container Platform,-
+OS,Operating System,オペレーティングシステム。コンピュータに基本機能を提供するソフトウェア。OSによって異なるハードウェア・機種でも同様に使うことができる。
+OSI,Open Systems Interconnection,異機種間のデータ通信を実現するためのネットワーク構造の設計方針。
+OSI参照モデル,Open Systems Interconnection Reference Model,"OSI参照モデル。TCP/IP階層モデルをさらに細分化したもの。ネットワークインターフェイス層が物理層とデータリンク層に分かれ、アプリケーション層がセッション層、プレゼンテーション層、アプリケーション層に分かれる。"
+PaaS,Platform as a Service,通称パース。データベースやアプリケーションサーバーなど、OS層以下のミドルウェアをサービスとして提供する。
+PIM,Platform Independent Model,ある特定の理論を前提に整理したモデル。実装にあたり特定のプラットフォームに依存しないモデル。
+PK,Primary Key,主キー。RDBのテーブル内でレコードを一意に識別することができるように指定される項目。レコードを構成する項目の中から1つあるいは複数が主キーとして選択・設定される。
+PoC,Proof of Concept,コンセプト実証。新しいアイデアなどの実現可能性を示すためだけに行われる、部分的なデモンストレーションのこと。
+POP3,Post Office Protocol versison3,インターネットなどのTCP/IPネットワークで標準的に用いられる、電子メール（eメール）を受信するための通信規約（プロトコル）の一つ。
+PSM,Platform Specific Model,ある特定の製品を前提に整理したモデル。実装にあたり特定のプラットフォームに依存するモデル。
+PTI,Pre-Tax Income,税前利益。
+QA,Quality Assurance,"品質保証。自社製品が既定の品質を維持しているかを確認し、納品後も顧客に安心や満足を保証するための体系的な活動を指す。具体的には、保証の根拠となるデータのチェックや調査、クレーム対応などの業務が該当し、各部門へのフィードバックを通じて、顧客が満足できる品質の確保に努める。"
+RA,Revenue Apportionment,収益配分。
+RDB,Relational Database,リレーショナルデータベース。データベースの一種で、様々なデータを複数の行と列の表の形に整理して格納する方式のデータベース。最も広く使われているデータベース種類である。
+RDBMS,Relational Database Management System,リレーショナルデータベース管理システム。DBMSのうち、特に、表の形式でデータを整理して管理するプログラム。広く用いられている。
+RHCOS,Red Hat Enterprise Linux Core OS,-
+RHEL,Red Hat Enterprise Linux,レッドハット・エンタープライズ・リナックス。レッドハット社によって開発、販売されているLinuxプラットフォームで、オープンソースのオペレーティングシステム。
+ROI,Return On Investment,投資収益率。投資金額に対する利益の割合（投資収益率）のことで、「投資に対して何%の利益が得られたか」を意味する。「利益（売上ーコスト）÷投資コスト×100（％）」で算出できる。
+RPA,Robotics Process Automation,ロボティック・プロセス・オートメーション。事業プロセスを自動化する技術のひとつ。
+SaaS,Software as a Service,サービスとしてのソフトウェア。ソフトウェアをインターネットを通じて遠隔から利用者に提供する方式。利用者はWebブラウザなどの汎用クライアントソフトを用いて事業者の運用するサーバへアクセスし、ソフトウェアを操作・使用する。
+SFTP,Secure File Transfer Protocol,sshで暗号化された通信路を使って安全にファイルを送受信するプロトコル。
+SMTP,Simple Mail Transfer Protocol,インターネットなどのTCP/IPネットワークで標準的に用いられる、電子メール（eメール）を伝送するための通信手順（プロトコル）の一つ。
+SOW,Statement of Work,作業範囲記述書。複数の組織が関わる事業、業務、プロジェクトにおいて、その目標やスケジュール、成果物の定義や仕様、作業工程、作業内容、役割分担、権限などを定義した文書。
+SOX,Sarbanes　Oxley,"上場企業会計改革および投資家保護法（サーベンス・オクスリー法）。SOX法、ソックス法と呼ばれる。企業の粉飾決算や不正会計処理を防ぐため、内部統制を強め、管理・点検体制を整えることを義務づけた企業改革法。"
+SQL,Structured Query Language,DBMS（データベース管理システム）上でデータやデータベースを制御するための言語。国際基準では略語として定義されていない。
+SSAE,Statement on Standards for Attestation Engagements,"保証業務基準書。米国公認会計士協会（AICPA）が定めた、アウトソーシングサービスなどの受託業務を行う会社の、内部統制の有効性を評価する保証基準。現在適用されているのはSSAE18であり、?米国公認会計士協会(AICPA)の定める米国アテステーション業務基準書第18号を指す。"
+SSD,Solid State Drive,半導体ドライブ。補助記憶装置の一つ。HDDの代わりに半導体素子を使用。フラッシュメモリを用いたものが主流。
+SSH,Secure Shell,セキュアシェル。主にUNIXコンピュータで利用される、ネットワークを介して別のコンピュータにログインして操作するためのソフトウェアの一つ。通信経路が暗号化されるため、インターネットなどを経由しても安全にアクセスすることができる。
+SSL/TLS,Secure Sockets Layer/Transport Layer Security,インターネット上でデータを暗号化して送受信する仕組み（プロトコル）。重要なデータを暗号化して、サーバとPC間の通信を安全に行うことが可能。
+SW,Software,ソフトウェア。ハードウェア上で動き、ある目的を満たす機能を提供する。プログラムによって作られている。
+TA,Technology Architecture,IT基盤の設計思想・基本構造。
+TCP,Transmission Control Protocol,"インターネットなどのネットワークで、IP（Internet Protocol）の一段階上位層のプロトコル（通信規約）として標準的に使われるものの一つ。通信相手が受け取ったかを確認するため信頼性は高いが転送速度は遅い。HTTPやメールなど確実性が重視される場面で使用される。"
+TCP/IP,Transmission Control Protocol/Internet Protocol,インターネットで標準的に利用されている通信プロトコル。TCPとIPという2つのプロトロコルで構成されている。
+TELNET,Teletype network,インターネットなどのTCP/IPネットワークを通じて別のコンピュータにアクセスし、遠隔操作するための通信規約（プロトコル）の一つ。
+TLS,Transport Layer Security,インターネットなどのTCP/IPネットワークでデータを暗号化して送受信するプロトコル（通信手順）の一つ。SSLの後継規格。
+UDP,User Datagram Protocol,リアルタイム性を重視する通信プロトコル。通信相手が受け取ったか確認しないので、信頼性よりも転送速度重視になる。音声通話やストリーミングで使用される。
+URL,Uniform Resource Locator,インターネット上に存在する情報資源（データやサービスなど）の位置を記述するためのデータ形式
+VICCS,"Veterans Intake, Conversion & Communication Services",-
+VM,Virtual Machine,仮想マシン。物理ハードウェアシステム上に作成され、固有のCPU、メモリ、ネットワーク・インターフェース、ストレージを持ち、仮想コンピュータシステムとして機能する仮想環境。
+VPN,Virtual Private Network,仮想専用線。インターネット上で仮想の専用ネットワークを設け、安全なルートを確保したうえで重要な情報をやり取りする技術。
+WAN,Wide Area Network,インターネットや広範囲に広がるネットワークのこと。反対に個別のネットワークはLANと呼ぶ。
+WBS,Work Breakdown Structure,"作業分解構成図。プロジェクトのスケジュール管理に使われるツールのひとつ。仕事の目的を達成する上で必要となる作業工程を階層的に分解し、具体的な作業スケジューリングと進捗管理が可能なように一覧化したもの。"
+Wi-Fi,Wireless Fidelity,ワイファイ。無線でネットワークに接続する技術のこと。
+WPA,Wi-fi Protected Access,無線LAN（Wi-Fi）上で通信を暗号化して保護するための技術規格の一つ。通信機器などが同規格に準拠していることを認定する認証制度。
+WWPMM,Worldwide Project Management Method,プロジェクトの定義・形成・計画・デリバリーを管理する方法を説明する、IBM共通のプロジェクトマネジメントメソッド。
+RSE,RSE,Concur特有の営業担当の呼び方。
+JPT,"Japan Public Transport",Concurの経費タイプ「日本の公共交通機関」。
+ASC,"Authorized Support Contact",Hand-off後、Concurクライアントサポートからのコンタクト先のお客様。
+CBCP,Company Billed Company Paid,コーポレートカードのタイプ。会社請求・会社支払を指す。
+CBIP,"Company Billed Individual Paid",コーポレートカードのタイプ。会社請求・個人支払 を指す(日本では利用実績なしのため、使用には注意)。
+IBIP,Individually Billed Individual Paid,コーポレートカードのタイプ。個人請求・個人支払を指す。
+SAEファイル,Standard Accounting Extractファイル,会計システムにデータをインポートするために使用するファイル。
+DSP,IBM Digital Services Platform for Financial Services,IBMが提供する金融向けデジタルサービス・プラットフォーム。勘定系システムとデータ連携する新たな金融サービスを短期間で開発するためのミドルウェア基盤。
+IbD,IBMer by Degrees,キャリア採用者のサポートを目的とし、研修やマネージャーによる支援等を受けられるIBM Consulting Japan独自の 半年間のプログラム。
+IWS,IBM Working Style,IBMの働き方や社内ツールについての理解を深める研修名。
