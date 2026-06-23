@@ -89,11 +89,13 @@ class HumanInTheLoopAgent:
         builder = StateGraph(HumanInTheLoopAgentState)
         builder.add_node("call_llm", self._call_llm)
         builder.add_node("run_tool", self._run_tool)
+        builder.add_node("analyze_result", self._analyze_result)
         builder.add_node("human_review_node", self._human_review_node)
         builder.add_edge(START, "call_llm")
         builder.add_conditional_edges("call_llm", self._route_after_llm)
         builder.add_conditional_edges("human_review_node", self._route_after_human)
-        builder.add_edge("run_tool", "call_llm")
+        builder.add_edge("run_tool", "analyze_result")
+        builder.add_edge("analyze_result", "call_llm")
         memory = MemorySaver()
         self.graph = builder.compile(
             checkpointer=memory,
@@ -124,6 +126,34 @@ class HumanInTheLoopAgent:
     def _human_review_node(self, state: dict) -> None:
         pass
 
+    @time_decorator
+    def _analyze_result(self, state: dict) -> dict:
+        """検索結果をLLMが分析し、簡潔な説明を生成する"""
+        model = ChatGoogleGenerativeAI(
+            model="gemini-2.0-flash-lite",
+            temperature=0,
+            max_tokens=None,
+            timeout=None,
+            max_retries=2,
+        )
+        
+        # 直前のツール実行結果から検索結果を抽出
+        tool_result = state["messages"][-1].content
+        
+        # LLMに検索結果の簡潔な説明を生成させる
+        analysis_prompt = f"""以下の検索結果から、見つかった略語を簡潔に説明してください。
+        
+検索結果：
+{tool_result}
+
+簡潔な説明（2-3行程度）："""
+        
+        analysis_response = model.invoke(analysis_prompt)
+        # メッセージに中間解説フラグを追加
+        analysis_response.response_metadata = {"is_intermediate_analysis": True}
+        
+        return {"messages": [analysis_response]}
+
     def _run_tool(self, state: dict) -> dict:
         new_messages = []
         tools = {"three_word_search": three_word_search}
@@ -152,6 +182,10 @@ class HumanInTheLoopAgent:
             return "run_tool"
         else:
             return "call_llm"
+    
+    def is_intermediate_analysis(self, message: AIMessage) -> bool:
+        """中間解説かどうかを判定"""
+        return message.response_metadata.get("is_intermediate_analysis", False) if hasattr(message, "response_metadata") else False
 
     def handle_human_message(self, human_message: str, thread_id: str) -> None:
         # 承認待ちの状態でhuman_messageが送信されるのは、ツールの呼び出しを修正したい状況
