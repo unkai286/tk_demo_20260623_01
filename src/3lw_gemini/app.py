@@ -36,8 +36,9 @@ def show_messages(messages: list[Any]) -> None:
                 with st.chat_message(message.type):
                     if is_intermediate:
                         # 検索結果の下のAI解説欄
-                        st.markdown("### 🔍 検索結果の解説")
-                        st.write(message.content)
+                        st.markdown("---")
+                        st.markdown("### 📝 検索結果に基づく略語の自動解説")
+                        st.markdown(message.content)
                     else:
                         # 最終的な解説結果
                         st.write(message.content)
